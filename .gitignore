@@ -2,3 +2,4 @@
 DATA.json
 StaticData.json
 ignore.js
+/model/User.js
